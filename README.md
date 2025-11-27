@@ -12,5 +12,7 @@ No problema em específico, devemos codificar a solução em C# e aplicar os con
 
 
 [Thauanylz](https://github.com/Thauanylz)
+
 [DevGabrielSouza7](https://github.com/DevGabrielSouza7)
 
+[devigorcleyve](https://github.com/igcleyve)
