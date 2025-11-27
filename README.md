@@ -18,3 +18,5 @@ No problema em específico, devemos codificar a solução em C# e aplicar os con
 [Igor Cleyve](https://github.com/igcleyve)
 
 [Daniel Nascimento](https://github.com/daannascimento97)
+
+[Lucas Silva](https://github.com/Lucas2802)
