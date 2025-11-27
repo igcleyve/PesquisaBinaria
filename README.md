@@ -9,3 +9,6 @@ A atividade consiste na resolução de uma problemática que exige a implementa�
 ---
 
 No problema em específico, devemos codificar a solução em C# e aplicar os conhecimentos de Programação Orientada a Objetos (POO) vistos na primeira unidade da disciplina.
+
+
+[Thauanylz](https://github.com/Thauanylz)
